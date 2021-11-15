@@ -1,6 +1,6 @@
 {
   "urls": {
-    "securityComponent": "https://undp-security.herokuapp.com",
+    "securityComponent": "http://37.187.88.37:48453",
     "backendComponent": "http://37.187.88.37:48453"
   }
 }
